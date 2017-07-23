@@ -1,0 +1,12 @@
+{
+  "name": "Network Hasher",
+  "version": "1.0",
+  "description": "Hashes responses to outgoing network requests and displays them in the Developer Console.",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "manifest_version": 2
+}
